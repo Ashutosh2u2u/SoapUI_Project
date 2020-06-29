@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27151" started-at="2020-05-09T05:28:50Z" finished-at="2020-05-09T05:29:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27151" started-at="2020-05-09T05:28:50Z" finished-at="2020-05-09T05:29:17Z">
+      <class name="SOAPservice.SoapUITestngTest">
+        <test-method status="PASS" signature="SoapUItestrun()[pri:0, instance:SOAPservice.SoapUITestngTest@1e127982]" name="SoapUItestrun" duration-ms="336" started-at="2020-05-09T05:29:17Z" finished-at="2020-05-09T05:29:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapUItestrun -->
+      </class> <!-- SOAPservice.SoapUITestngTest -->
+      <class name="SOAPservice.SingleSoapUITest">
+        <test-method status="PASS" signature="SoapUItestrun()[pri:0, instance:SOAPservice.SingleSoapUITest@617faa95]" name="SoapUItestrun" duration-ms="1641" started-at="2020-05-09T05:29:15Z" finished-at="2020-05-09T05:29:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapUItestrun -->
+      </class> <!-- SOAPservice.SingleSoapUITest -->
+      <class name="RESTservice.SingleRestTest">
+        <test-method status="PASS" signature="SoapUItestrun()[pri:0, instance:RESTservice.SingleRestTest@6e1ec318]" name="SoapUItestrun" duration-ms="196" started-at="2020-05-09T05:29:14Z" finished-at="2020-05-09T05:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapUItestrun -->
+      </class> <!-- RESTservice.SingleRestTest -->
+      <class name="RESTservice.RESTservicesTest">
+        <test-method status="PASS" signature="SoapUItestrun()[pri:0, instance:RESTservice.RESTservicesTest@10bdf5e5]" name="SoapUItestrun" duration-ms="24442" started-at="2020-05-09T05:28:50Z" finished-at="2020-05-09T05:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapUItestrun -->
+      </class> <!-- RESTservice.RESTservicesTest -->
+      <class name="RESTservice.SoapUIRESTserviceTest">
+        <test-method status="PASS" signature="SoapUItestrun()[pri:0, instance:RESTservice.SoapUIRESTserviceTest@7e0b0338]" name="SoapUItestrun" duration-ms="440" started-at="2020-05-09T05:29:15Z" finished-at="2020-05-09T05:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapUItestrun -->
+      </class> <!-- RESTservice.SoapUIRESTserviceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
